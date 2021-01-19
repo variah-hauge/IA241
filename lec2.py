@@ -6,11 +6,12 @@ this is a regional comment
 
 # print( type('123') )
 
-# print("it's our second python class")
+# print("It's our 2nd python class")
 
 # print('Hello' + 'World')
 
 my_str = 'hello world'
+
 
 print(my_str)
 
