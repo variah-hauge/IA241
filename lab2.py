@@ -1,8 +1,10 @@
 '''
 lab 2
 '''
+
 #3.1
 my_name = "Tom"
+
 print(my_name)
 
 # 3.2
@@ -12,7 +14,7 @@ print(my_id)
 
 # 3.3
 
-_123=my_id 
+# _123=my_id 
 my_id = your_id=123
 print(my_id)
 print(your_id)
@@ -39,5 +41,5 @@ print('Hello world. This is my first python string.'.split('.'))
 
 # 3.9
 
-message = "Tom's id is 123"
-print(message)
+# message = "Tom's id is 123"
+# print(message)
