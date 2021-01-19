@@ -6,7 +6,7 @@ this is a regional comment
 
 # print( type('123') )
 
-# print("It's our 2nd python class")
+# print('It's our 2nd python class')
 
 # print('Hello' + 'World')
 
