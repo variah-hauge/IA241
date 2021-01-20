@@ -1,5 +1,5 @@
 """
-lab 3 list and set 
+lab 3 list and set
 """
 
 # 3.1
