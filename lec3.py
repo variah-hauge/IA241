@@ -1,6 +1,6 @@
-'''
+"""
 lecture about list and set 
-'''
+"""
 
 my_list = [1,2,3,4,5]
 
@@ -42,9 +42,10 @@ print('hello world'[-1])
 
 my_letters= ['a','a','b','b','c']
 print(my_letters)
+
+
 my_unique_letters = set(my_letters)
-
-print('d' in my_unique_letters)
-
+print(my_unique_letters)
+print(len(my_unique_letters))
+print('a' in my_unique_letters)
 print(list(my_unique_letters)[0])
-
