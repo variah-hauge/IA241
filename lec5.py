@@ -26,7 +26,7 @@ lec 5 if statement
 # print(a ==b)
 # print(a is b)
 
-# x= None 
+# x = None 
 
 # print(id(x))
 # print(id(None))
@@ -60,7 +60,7 @@ lec 5 if statement
 # if 2<=2:
 #     print('2<=2')
 # else:
-#     primt('2>2')
+#     print('2>2')
     
 # if 2<=1: 
 #     print('2<=1')
@@ -72,11 +72,10 @@ lec 5 if statement
 
 if None: 
     print(1)
-elif{}:
+elif {}:
     print(2)
 elif '0':
     print(3)
 else:
     print(4)
-    
     
