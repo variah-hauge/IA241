@@ -4,7 +4,7 @@ lab 5 if statement
 
 # 3.1
 
-# alien_color = 'green'
+# alien_color = 'red'
 
 # if alien_color == 'green':
 #     print('you just earned 5 points')
@@ -24,17 +24,17 @@ lab 5 if statement
 # favorite_fruits = ['strawberry','banana','watermelon']
 
 # if 'strawberry' in favorite_fruits:
-#     print('you really like strawberry!')
+#     print('you really like strawberry')
     
 # if 'banana' in favorite_fruits:
-#     print('you really like banana!')
+#     print('you really like banana')
     
 # if 'watermelon' in favorite_fruits:
-#     print('you really like watermelon!')
+#     print('you really like watermelon')
 
 # 3.4
 
-age = 5
+age = 9
 
 # if age < 10:
 #     print('you are a kid')
@@ -53,5 +53,3 @@ elif age >10:
     print('you are a teenager')
 else:
     print('you are a kid')
-    
-    
