@@ -68,5 +68,3 @@ for hashtag in my_tweet['entities']['hashtags']:
     result = result + 1
     
 print(result)
-
-
