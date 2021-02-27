@@ -9,7 +9,8 @@ while i >=0:
           print(1/(i-3))
      except:
           continue
-     i = i-1 
+     i = i -1 
+
 
 # try:   
 #      print(1/0)
