@@ -40,7 +40,7 @@ i = 3
 result =1
 
 while i <=8:
-    result = result +i
+    result = result *i
     i = i +1
     
 print(result)
@@ -53,7 +53,7 @@ i = 4
 result =1
 
 while i <=8:
-    result = result +i
+    result = result *i
     i = i +1
     
 print(result)
