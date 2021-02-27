@@ -3,12 +3,12 @@ lec 7 while loop
 '''
 
 i = 5 
-while i >= 0: 
+while i >=0: 
      
      try:
           print(1/(i-3))
      except:
-          pass
+          continue
      i = i-1 
 
 # try:   
