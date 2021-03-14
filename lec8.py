@@ -29,7 +29,7 @@ def cal_sigma(m,n):
         result = result +i
     return result 
     
-print(cal_sigma(5,3))
+# print(cal_sigma(5,3))
 
 def cal_pi(m,n):
     
