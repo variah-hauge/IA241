@@ -39,4 +39,18 @@ def cal_pi(m,n):
         result = result *i 
     return result
     
-print(cal_pi(5,3))
+# print(cal_pi(5,3))
+
+def cal_f(m):
+    
+    if m ==0:
+        return 1
+    else:
+        return m * cal_f(m-1)
+        
+# print(cal_f(5))
+
+def cal_p(m,n):
+    return cal_f(m)/cal_f(m-n)
+    
+# print(cal_p(6,4))
